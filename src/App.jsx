@@ -7,10 +7,10 @@ import drawing4 from "./assets/img/drawings/card4.jpg"
 import { Parallax } from "react-parallax"
 import First from "./components/Section/First"
 import TextBox from "./components/TextBox/TextBox"
-import Card from "./components/card/Card"
 import ComingSoon from "./components/ComingSoon/ComingSoon"
 import Preloader from "./components/Preloader/Preloader"
 import logo from "../public/Icon.png"
+import Card from "./components/kartu/Card.jsx"
 
 const drawings = [drawing1, drawing2, drawing3, drawing4]
 

@@ -6,9 +6,6 @@ export default {
   ],
   theme: {
     extend: {
-      animation: {
-        spin: 'spin 1s linear infinite',
-      },
       screens: {
         'sm': { 'min': '360px', 'max': '768px' },
         'md': { 'min': '768px', 'max': '1024px' },
