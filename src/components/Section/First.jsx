@@ -10,7 +10,7 @@ const First = () => {
         >
             <div className="flex justify-center h-screen items-center">
                 <div className="relative">
-                    <h1 className="text-6xl font-whisper text-white sm:text-4xl md:text-5xl">Winston'sgugugagagallery</h1>
+                    <h1 className="text-6xl font-whisper text-white sm:text-4xl md:text-5xl">Winston's gallery</h1>
                     <div className="flex gap-4 w-full items-center justify-center">
                         <hr className="border-white border w-full" />
                         <p className="text-white font-whisper text-xl">2024</p>
