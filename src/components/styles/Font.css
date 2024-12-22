@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Chelsea Market";
+  src: url("./assets/fonts/Chelsea_Market/ChelseaMarket-Regular.ttf")
+    format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Whisper";
+  src: url("./assets/fonts/Whisper-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+}
