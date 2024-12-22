@@ -28,7 +28,6 @@ const App = () => {
     return () => clearTimeout(timer);
   }, []);
 
-
   return (
     <>
       <Preloader isVisible={isVisible} />
